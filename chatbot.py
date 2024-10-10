@@ -13,6 +13,6 @@ day=input("so how was your day?")
 if day=='good':
     print("oh niceee")
 else:
-    print("Hope tommorow it will be great")
+    print("Hope tommorow it will be more better")
 hobby=input("what's your hobby?")
 print(f"woww {hobby} is a nice hobby.")
